@@ -28,7 +28,7 @@ Rscript test.R --target bad/good -- badthre <threshold> --input meth1 meth2 ... 
 #### person4	good	    0.148418645840138
 
 ＃＃＃ 輸出格式
-* 編寫函數來計算指標。
+* 以F1_score.R 來計算指標。
 * 找出哪種方法在指標方面表現最好。
 * pseudo R*R = 1 - deviance(model)/deviance(null model) for S=0.
 
