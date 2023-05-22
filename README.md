@@ -1,9 +1,6 @@
 #評估預測即將違約貸款的模式(imbalanced data不平衡資料的判讀)
 ![image](https://github.com/hswang108/imbalanced/assets/59585262/b717dcb0-8a0e-4e29-9691-dca14bc58347)
-
-
-
-
+![image](https://github.com/hswang108/imbalanced/assets/59585262/b0181ea0-9874-4d81-b29b-827e5b603643)
 ###命令
 ```R
 Rscript test.R --target bad/good -- badthre <threshold> --input meth1 meth2 ... methx --output result.csv
