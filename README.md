@@ -20,11 +20,11 @@ Rscript test.R --target bad/good -- badthre <threshold> --input meth1 meth2 ... 
 
 #### 示例：`examples/method1.csv`
 
-# persons	reference	pred.score
-# person1	bad	      0.807018548483029
-# person2	bad	      0.740809247596189
-# person3	bad	      0.0944965328089893
-# person4	good	    0.148418645840138
+#### persons	reference	pred.score
+#### person1	bad	      0.807018548483029
+#### person2	bad	      0.740809247596189
+#### person3	bad	      0.0944965328089893
+#### person4	good	    0.148418645840138
 
 ＃＃＃ 輸出格式
 * 編寫函數來計算指標。
