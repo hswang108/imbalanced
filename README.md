@@ -47,8 +47,8 @@ Rscript Evalute.R --target good -- badthre 0.6 --input examples/method2.csv exam
 
 ### 網路安全數據集
 https://github.com/jivoi/awesome-ml-for-cybersecurity
-可導入家用或公司防火牆封包檢測資料，去判斷異常封包流量。
+### 可導入家用或公司防火牆封包檢測資料，去判斷異常封包流量。
 ### 程式碼參考下列改寫
-Practical Data Science with R 2nd edition (Nina Zumel and John Mount)
+### Practical Data Science with R 2nd edition (Nina Zumel and John Mount)
 https://github.com/WinVector/PDSwR2/tree/master
 
