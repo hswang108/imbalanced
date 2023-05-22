@@ -3,7 +3,7 @@
 
 ###命令
 ```R
-Rscript Evalute.R --target bad/good -- badthre <閾值> --input meth1 meth2 ... methx --output result.csv
+Rscript Evalute.R --target bad/good -- badthre <threshold> --input meth1 meth2 ... methx --output result.csv
 
 ```
 
