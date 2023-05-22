@@ -1,5 +1,6 @@
-# 評估預測即將違約貸款的模式(imbalanced data不平衡資料的判讀) 
-# 路徑不要出現中文，以免無法讀取。
+### 一個簡單的例子
+### 評估預測即將違約貸款的模式(imbalanced data不平衡資料的判讀) 
+### 路徑不要出現中文，以免無法讀取。
 ![image](https://github.com/hswang108/imbalanced/assets/59585262/b717dcb0-8a0e-4e29-9691-dca14bc58347)
 ![image](https://github.com/hswang108/imbalanced/assets/59585262/9db3940a-fa3a-4f28-ab75-237e4307af2e)
 
