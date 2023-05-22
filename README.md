@@ -16,7 +16,7 @@ Rscript test.R --target bad/good -- badthre <threshold> --input meth1 meth2 ... 
 * 執行test.R
 
 
-### 輸入格式
+### 輸入格式(需要將資料先整理成(取得)下列格式，每個申請人的 好/壞帳 機率)
 * 最後一列pred.score是“不良貸款”的預測概率。
 
 #### 示例：`examples/method1.csv`
